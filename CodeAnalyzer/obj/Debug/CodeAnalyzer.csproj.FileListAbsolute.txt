@@ -1,0 +1,30 @@
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\code analyzer\CodeAnalyzer\CodeAnalyzer\bin\Debug\CodeAnalyzer.exe.config
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\code analyzer\CodeAnalyzer\CodeAnalyzer\bin\Debug\CodeAnalyzer.exe
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\code analyzer\CodeAnalyzer\CodeAnalyzer\bin\Debug\CodeAnalyzer.pdb
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\code analyzer\CodeAnalyzer\CodeAnalyzer\bin\Debug\Display.exe
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\code analyzer\CodeAnalyzer\CodeAnalyzer\bin\Debug\Parser.exe
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\code analyzer\CodeAnalyzer\CodeAnalyzer\bin\Debug\Display.pdb
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\code analyzer\CodeAnalyzer\CodeAnalyzer\bin\Debug\Parser.pdb
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\code analyzer\CodeAnalyzer\CodeAnalyzer\obj\Debug\CodeAnalyzer.csprojResolveAssemblyReference.cache
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\code analyzer\CodeAnalyzer\CodeAnalyzer\obj\Debug\CodeAnalyzer.exe
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\code analyzer\CodeAnalyzer\CodeAnalyzer\obj\Debug\CodeAnalyzer.pdb
+F:\project4_server2\CodeAnalyzer\obj\Debug\CodeAnalyzer.csprojResolveAssemblyReference.cache
+F:\project4_server2\CodeAnalyzer\bin\Debug\CodeAnalyzer.exe.config
+F:\project4_server2\CodeAnalyzer\bin\Debug\CodeAnalyzer.exe
+F:\project4_server2\CodeAnalyzer\bin\Debug\CodeAnalyzer.pdb
+F:\project4_server2\CodeAnalyzer\bin\Debug\Display.exe
+F:\project4_server2\CodeAnalyzer\bin\Debug\Parser.exe
+F:\project4_server2\CodeAnalyzer\bin\Debug\Display.pdb
+F:\project4_server2\CodeAnalyzer\bin\Debug\Parser.pdb
+F:\project4_server2\CodeAnalyzer\obj\Debug\CodeAnalyzer.exe
+F:\project4_server2\CodeAnalyzer\obj\Debug\CodeAnalyzer.pdb
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\CodeAnalyzer\bin\Debug\CodeAnalyzer.exe.config
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\CodeAnalyzer\bin\Debug\CodeAnalyzer.exe
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\CodeAnalyzer\bin\Debug\CodeAnalyzer.pdb
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\CodeAnalyzer\bin\Debug\Display.exe
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\CodeAnalyzer\bin\Debug\Parser.exe
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\CodeAnalyzer\bin\Debug\Display.pdb
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\CodeAnalyzer\bin\Debug\Parser.pdb
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\CodeAnalyzer\obj\Debug\CodeAnalyzer.csprojResolveAssemblyReference.cache
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\CodeAnalyzer\obj\Debug\CodeAnalyzer.exe
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\CodeAnalyzer\obj\Debug\CodeAnalyzer.pdb

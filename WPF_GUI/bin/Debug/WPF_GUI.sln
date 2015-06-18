@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "WPF_GUI", "WPF_GUI.exe", "{A97D69F2-86E7-4110-8DDC-B61DA503B3A0}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\bin\Debug\WPF_GUI.exe
+		RemoteMachine = ODYSSEUS
+		StartingDirectory = C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\bin\Debug
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A97D69F2-86E7-4110-8DDC-B61DA503B3A0}.Debug|Default.ActiveCfg = Debug
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

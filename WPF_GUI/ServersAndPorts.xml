@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LectureNote heading="List of Servers and Ports"> 
+  <server>
+    <name>server1</name>
+    <diff>:</diff>
+    <port>8080</port>
+  </server>
+  <server>
+    <name>server2</name>
+    <diff>:</diff>
+    <port>8081</port>
+  </server>
+</LectureNote>

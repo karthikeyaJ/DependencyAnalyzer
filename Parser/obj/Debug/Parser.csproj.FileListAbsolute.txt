@@ -1,0 +1,35 @@
+C:\su\CSE681\code\Project1HelpSu09\Parser\bin\Debug\Parser.exe
+C:\su\CSE681\code\Project1HelpSu09\Parser\bin\Debug\Parser.pdb
+C:\su\CSE681\code\Project1HelpSu09\Parser\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CSE681\code\Project1HelpSu09\Parser\obj\Debug\Parser.exe
+C:\su\CSE681\code\Project1HelpSu09\Parser\obj\Debug\Parser.pdb
+C:\su\CSE681\code\Parser\Parser\bin\Debug\Parser.exe
+C:\su\CSE681\code\Parser\Parser\bin\Debug\Parser.pdb
+C:\su\CSE681\code\Parser\Parser\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CSE681\code\Parser\Parser\obj\Debug\Parser.exe
+C:\su\CSE681\code\Parser\Parser\obj\Debug\Parser.pdb
+C:\su\CSE681\code\Parser-Fall11\Parser\bin\Debug\Parser.exe
+C:\su\CSE681\code\Parser-Fall11\Parser\bin\Debug\Parser.pdb
+C:\su\CSE681\code\Parser-Fall11\Parser\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CSE681\code\Parser-Fall11\Parser\obj\Debug\Parser.exe
+C:\su\CSE681\code\Parser-Fall11\Parser\obj\Debug\Parser.pdb
+C:\Users\Fawcett\Desktop\Parser\Parser\bin\Debug\Parser.exe
+C:\Users\Fawcett\Desktop\Parser\Parser\bin\Debug\Parser.pdb
+C:\Users\Fawcett\Desktop\Parser\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache
+C:\Users\Fawcett\Desktop\Parser\Parser\obj\Debug\Parser.exe
+C:\Users\Fawcett\Desktop\Parser\Parser\obj\Debug\Parser.pdb
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\code analyzer\CodeAnalyzer\Parser\bin\Debug\Parser.exe
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\code analyzer\CodeAnalyzer\Parser\bin\Debug\Parser.pdb
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\code analyzer\CodeAnalyzer\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\code analyzer\CodeAnalyzer\Parser\obj\Debug\Parser.exe
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\code analyzer\CodeAnalyzer\Parser\obj\Debug\Parser.pdb
+F:\project4_server2\Parser\bin\Debug\Parser.exe
+F:\project4_server2\Parser\bin\Debug\Parser.pdb
+F:\project4_server2\Parser\obj\Debug\Parser.exe
+F:\project4_server2\Parser\obj\Debug\Parser.pdb
+F:\project4_server2\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\Parser\bin\Debug\Parser.exe
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\Parser\bin\Debug\Parser.pdb
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\Parser\obj\Debug\Parser.exe
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\Parser\obj\Debug\Parser.pdb

@@ -1,0 +1,12 @@
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\client1\Display\bin\Debug\Display.exe.config
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\client1\Display\bin\Debug\Display.exe
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\client1\Display\bin\Debug\Display.pdb
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\client1\Display\obj\Debug\Display.csprojResolveAssemblyReference.cache
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\client1\Display\obj\Debug\Display.exe
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\client1\Display\obj\Debug\Display.pdb
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\Display\bin\Debug\Display.exe.config
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\Display\bin\Debug\Display.exe
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\Display\bin\Debug\Display.pdb
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\Display\obj\Debug\Display.csprojResolveAssemblyReference.cache
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\Display\obj\Debug\Display.exe
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\Display\obj\Debug\Display.pdb

@@ -1,0 +1,30 @@
+C:\su\CSE681\code\WCF_Peer_Comm\WCF_Peer_Comm\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CSE681\code\WCF_Peer_Comm\WCF_Peer_Comm\bin\WCF_Peer_Comm.dll
+C:\su\CSE681\code\WCF_Peer_Comm\WCF_Peer_Comm\bin\WCF_Peer_Comm.pdb
+C:\su\CSE681\code\WCF_Peer_Comm\WCF_Peer_Comm\obj\Debug\WCF_Peer_Comm.dll
+C:\su\CSE681\code\WCF_Peer_Comm\WCF_Peer_Comm\obj\Debug\WCF_Peer_Comm.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WCF_Peer_Comm\bin\WCF_Peer_Comm.dll
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WCF_Peer_Comm\bin\WCF_Peer_Comm.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WCF_Peer_Comm\obj\Debug\WCF_Peer_Comm.dll
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WCF_Peer_Comm\obj\Debug\WCF_Peer_Comm.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WCF_Peer_Comm\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WCF_Peer_Comm\obj\Debug\WCF_Peer_Comm.dll
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WCF_Peer_Comm\obj\Debug\WCF_Peer_Comm.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WCF_Peer_Comm\bin\WCF_Peer_Comm.dll
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WCF_Peer_Comm\bin\WCF_Peer_Comm.pdb
+C:\SU\coretechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WCF_Peer_Comm\obj\Debug\WCF_Peer_Comm.csprojResolveAssemblyReference.cache
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\server\WCF_Peer_Comm\obj\Debug\WCF_Peer_Comm.csprojResolveAssemblyReference.cache
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\server\WCF_Peer_Comm\obj\Debug\WCF_Peer_Comm.dll
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\server\WCF_Peer_Comm\obj\Debug\WCF_Peer_Comm.pdb
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\server\WCF_Peer_Comm\bin\WCF_Peer_Comm.dll
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\server\WCF_Peer_Comm\bin\WCF_Peer_Comm.pdb
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\client1\WCF_Peer_Comm\bin\WCF_Peer_Comm.dll
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\client1\WCF_Peer_Comm\bin\WCF_Peer_Comm.pdb
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\client1\WCF_Peer_Comm\obj\Debug\WCF_Peer_Comm.csprojResolveAssemblyReference.cache
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\client1\WCF_Peer_Comm\obj\Debug\WCF_Peer_Comm.dll
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\client1\WCF_Peer_Comm\obj\Debug\WCF_Peer_Comm.pdb
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\WCF_Peer_Comm\bin\WCF_Peer_Comm.dll
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\WCF_Peer_Comm\bin\WCF_Peer_Comm.pdb
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\WCF_Peer_Comm\obj\Debug\WCF_Peer_Comm.csprojResolveAssemblyReference.cache
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\WCF_Peer_Comm\obj\Debug\WCF_Peer_Comm.dll
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\WCF_Peer_Comm\obj\Debug\WCF_Peer_Comm.pdb

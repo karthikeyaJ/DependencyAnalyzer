@@ -1,0 +1,92 @@
+C:\su\CSE681\code\WCF_Peer_Comm\WPF_GUI\bin\Debug\WPF_GUI.exe
+C:\su\CSE681\code\WCF_Peer_Comm\WPF_GUI\bin\Debug\WPF_GUI.pdb
+C:\su\CSE681\code\WCF_Peer_Comm\WPF_GUI\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CSE681\code\WCF_Peer_Comm\WPF_GUI\obj\Debug\Window1.baml
+C:\su\CSE681\code\WCF_Peer_Comm\WPF_GUI\obj\Debug\Window1.g.cs
+C:\su\CSE681\code\WCF_Peer_Comm\WPF_GUI\obj\Debug\App.g.cs
+C:\su\CSE681\code\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI_MarkupCompile.cache
+C:\su\CSE681\code\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.g.resources
+C:\su\CSE681\code\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.Properties.Resources.resources
+C:\su\CSE681\code\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.csproj.GenerateResource.Cache
+C:\su\CSE681\code\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.exe
+C:\su\CSE681\code\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.pdb
+C:\su\CSE681\code\WCF_Peer_Comm\WPF_GUI\bin\Debug\WCF_Peer_Comm.dll
+C:\su\CSE681\code\WCF_Peer_Comm\WPF_GUI\bin\Debug\WCF_Peer_Comm.pdb
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.exe
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.exe
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\bin\Debug\WPF_GUI.exe
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\bin\Debug\WPF_GUI.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\bin\Debug\WCF_Peer_Comm.dll
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\bin\Debug\WCF_Peer_Comm.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\obj\Debug\Window1.baml
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\obj\Debug\Window1.g.cs
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\obj\Debug\App.g.cs
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI_MarkupCompile.cache
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.g.resources
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.Properties.Resources.resources
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\bin\Debug\WPF_GUI.exe.config
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\bin\Debug\WPF_GUI.exe.config
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\obj\Debug\WPF_GUI.exe
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\obj\Debug\WPF_GUI.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\bin\Debug\WPF_GUI.exe
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\bin\Debug\WPF_GUI.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\bin\Debug\WCF_Peer_Comm.dll
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\bin\Debug\WCF_Peer_Comm.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\obj\Debug\Window1.baml
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\obj\Debug\Window1.g.cs
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\obj\Debug\App.g.cs
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\obj\Debug\WPF_GUI_MarkupCompile.cache
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\obj\Debug\WPF_GUI.g.resources
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\obj\Debug\WPF_GUI.Properties.Resources.resources
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\obj\Debug\GenerateResource.read.1.tlog
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\obj\Debug\GenerateResource.write.1.tlog
+C:\SU\coretechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.csprojResolveAssemblyReference.cache
+C:\SU\coretechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.csproj.GenerateResource.Cache
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\server\WPF_GUI\bin\Debug\WPF_GUI.exe.config
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\server\WPF_GUI\obj\Debug\WPF_GUI.exe
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\server\WPF_GUI\obj\Debug\WPF_GUI.pdb
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\server\WPF_GUI\bin\Debug\WPF_GUI.exe
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\server\WPF_GUI\bin\Debug\WPF_GUI.pdb
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\server\WPF_GUI\bin\Debug\WCF_Peer_Comm.dll
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\server\WPF_GUI\bin\Debug\WCF_Peer_Comm.pdb
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\server\WPF_GUI\obj\Debug\WPF_GUI.csprojResolveAssemblyReference.cache
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\server\WPF_GUI\obj\Debug\Window1.baml
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\server\WPF_GUI\obj\Debug\Window1.g.cs
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\server\WPF_GUI\obj\Debug\App.g.cs
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\server\WPF_GUI\obj\Debug\WPF_GUI_MarkupCompile.cache
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\server\WPF_GUI\obj\Debug\WPF_GUI.g.resources
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\server\WPF_GUI\obj\Debug\WPF_GUI.Properties.Resources.resources
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\server\WPF_GUI\obj\Debug\WPF_GUI.csproj.GenerateResource.Cache
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\client1\WPF_GUI\bin\Debug\WPF_GUI.exe.config
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\client1\WPF_GUI\bin\Debug\WPF_GUI.exe
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\client1\WPF_GUI\bin\Debug\WPF_GUI.pdb
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\client1\WPF_GUI\bin\Debug\WCF_Peer_Comm.dll
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\client1\WPF_GUI\bin\Debug\WCF_Peer_Comm.pdb
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\client1\WPF_GUI\obj\Debug\WPF_GUI.csprojResolveAssemblyReference.cache
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\client1\WPF_GUI\obj\Debug\Window1.baml
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\client1\WPF_GUI\obj\Debug\Window1.g.cs
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\client1\WPF_GUI\obj\Debug\App.g.cs
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\client1\WPF_GUI\obj\Debug\WPF_GUI_MarkupCompile.cache
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\client1\WPF_GUI\obj\Debug\WPF_GUI.g.resources
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\client1\WPF_GUI\obj\Debug\WPF_GUI.Properties.Resources.resources
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\client1\WPF_GUI\obj\Debug\WPF_GUI.csproj.GenerateResource.Cache
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\client1\WPF_GUI\obj\Debug\WPF_GUI.exe
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\client1\WPF_GUI\obj\Debug\WPF_GUI.pdb
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\WPF_GUI\bin\Debug\WPF_GUI.exe.config
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\WPF_GUI\bin\Debug\WPF_GUI.exe
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\WPF_GUI\bin\Debug\WPF_GUI.pdb
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\WPF_GUI\bin\Debug\WCF_Peer_Comm.dll
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\WPF_GUI\bin\Debug\WCF_Peer_Comm.pdb
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\WPF_GUI\obj\Debug\WPF_GUI.csprojResolveAssemblyReference.cache
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\WPF_GUI\obj\Debug\Window1.baml
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\WPF_GUI\obj\Debug\Window1.g.cs
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\WPF_GUI\obj\Debug\App.g.cs
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\WPF_GUI\obj\Debug\WPF_GUI_MarkupCompile.cache
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\WPF_GUI\obj\Debug\WPF_GUI.g.resources
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\WPF_GUI\obj\Debug\WPF_GUI.Properties.Resources.resources
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\WPF_GUI\obj\Debug\WPF_GUI.csproj.GenerateResource.Cache
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\WPF_GUI\obj\Debug\WPF_GUI.exe
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\WPF_GUI\obj\Debug\WPF_GUI.pdb

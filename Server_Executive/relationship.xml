@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Relationship XML Output-->
+<Relationships>
+  <TypeDependency>
+    <Relation>Aggregation</Relation>
+    <Type1>Test</Type1>
+    <Type1Namespace>PackageAnalysis</Type1Namespace>
+    <Type2>ScopeStack</Type2>
+    <Type2Namespace>PackageAnalysis</Type2Namespace>
+  </TypeDependency>
+  <TypeDependency>
+    <Relation>Composition</Relation>
+    <Type1>Test</Type1>
+    <Type1Namespace>PackageAnalysis</Type1Namespace>
+    <Type2>Test.Elem</Type2>
+    <Type2Namespace>PackageAnalysis</Type2Namespace>
+  </TypeDependency>
+  <TypeDependency>
+    <Relation>Using</Relation>
+    <Type1>Test</Type1>
+    <Type1Namespace>PackageAnalysis</Type1Namespace>
+    <Type2>Test</Type2>
+    <Type2Namespace>PackageAnalysis</Type2Namespace>
+  </TypeDependency>
+  <TypeDependency>
+    <Relation>Using</Relation>
+    <Type1>Test</Type1>
+    <Type1Namespace>PackageAnalysis</Type1Namespace>
+    <Type2>Elem</Type2>
+    <Type2Namespace>PackageAnalysis</Type2Namespace>
+  </TypeDependency>
+</Relationships>

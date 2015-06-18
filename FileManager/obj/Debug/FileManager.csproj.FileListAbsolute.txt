@@ -1,0 +1,17 @@
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\code analyzer\CodeAnalyzer\FileManager\bin\Debug\FileManager.exe.config
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\code analyzer\CodeAnalyzer\FileManager\bin\Debug\FileManager.exe
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\code analyzer\CodeAnalyzer\FileManager\bin\Debug\FileManager.pdb
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\code analyzer\CodeAnalyzer\FileManager\obj\Debug\FileManager.csprojResolveAssemblyReference.cache
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\code analyzer\CodeAnalyzer\FileManager\obj\Debug\FileManager.exe
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\code analyzer\CodeAnalyzer\FileManager\obj\Debug\FileManager.pdb
+F:\project4_server2\FileManager\bin\Debug\FileManager.exe.config
+F:\project4_server2\FileManager\bin\Debug\FileManager.exe
+F:\project4_server2\FileManager\bin\Debug\FileManager.pdb
+F:\project4_server2\FileManager\obj\Debug\FileManager.exe
+F:\project4_server2\FileManager\obj\Debug\FileManager.pdb
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\FileManager\bin\Debug\FileManager.exe.config
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\FileManager\bin\Debug\FileManager.exe
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\FileManager\bin\Debug\FileManager.pdb
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\FileManager\obj\Debug\FileManager.csprojResolveAssemblyReference.cache
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\FileManager\obj\Debug\FileManager.exe
+E:\MS IN COMPUTER ENG\Fall 2014 semester 2\SMA\4th project\wcf_comm\project4\FileManager\obj\Debug\FileManager.pdb

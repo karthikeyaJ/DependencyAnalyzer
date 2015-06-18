@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Types XML Output-->
+<TypeTableOutput>
+  <Types>
+    <FileName>ScopeStack.cs</FileName>
+    <FileType>class</FileType>
+    <ClassName>PackageAnalysis.ScopeStack</ClassName>
+    <Just_FileName>ScopeStack</Just_FileName>
+  </Types>
+  <Types>
+    <FileName>ScopeStack.cs</FileName>
+    <FileType>class</FileType>
+    <ClassName>PackageAnalysis.Test</ClassName>
+    <Just_FileName>ScopeStack</Just_FileName>
+  </Types>
+  <Types>
+    <FileName>ScopeStack.cs</FileName>
+    <FileType>struct</FileType>
+    <ClassName>PackageAnalysis.Elem</ClassName>
+    <Just_FileName>ScopeStack</Just_FileName>
+  </Types>
+</TypeTableOutput>

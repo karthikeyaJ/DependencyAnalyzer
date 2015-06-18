@@ -1,0 +1,42 @@
+
+  Demonstrating Parser
+ ======================
+
+  Processing file c:\su\CSE681\code\Parser-Fall11\Parser\Parser.cs
+
+  Type and Function Analysis
+ ----------------------------
+
+  line# 37   entering   namespace CodeAnalysis 
+  line# 42   entering     class Parser 
+  line# 47   entering       function Parser 
+  line# 51   leaving        function Parser 
+  line# 52   entering       function ScopeStack 
+  line# 55   leaving        function ScopeStack 
+  line# 56   entering       function add 
+  line# 59   leaving        function add 
+  line# 60   entering       function parse 
+  line# 71   leaving        function parse 
+  line# 72   leaving      class Parser 
+  line# 74   entering     class TestParser 
+  line# 78   entering       function ProcessCommandline 
+  line# 94   leaving        function ProcessCommandline 
+  line# 100  entering       function Main 
+  line# 138  leaving        function Main 
+  line# 140  leaving      class TestParser 
+  line# 141  leaving    namespace CodeAnalysis 
+
+  locations table contains:
+   namespace,              CodeAnalysis,    37,   141
+       class,                    Parser,    42,    72
+    function,                    Parser,    47,    51
+    function,                ScopeStack,    52,    55
+    function,                       add,    56,    59
+    function,                     parse,    60,    71
+       class,                TestParser,    74,   140
+    function,        ProcessCommandline,    78,    94
+    function,                      Main,   100,   138
+
+
+  That's all folks!
+
